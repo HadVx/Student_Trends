@@ -43,13 +43,13 @@ P.S. SQL-частина відсутня в цьому проекті через
 # 📈 Power BI DashBoard 📉
 ### ✏️Опис:
 Було створено 4 основних сторінки і 2 підсторінки сторінки Загальна (поглиблено і поглиблено_2) та додані основні елементи візуалізації, більшість елементів є інтерактивними
-До кожної сторінки веде шлях зверху (динамічний), до підсторінок відповідні кнопки на Загальній та Поглиблено
-<img width="1699" height="886" alt="image" src="https://github.com/user-attachments/assets/564a1ff1-9450-4194-8fe7-787524651104" />
-<img width="1660" height="880" alt="image" src="https://github.com/user-attachments/assets/7ecf56dd-6147-4a77-8177-32c237d83b6d" />
-<img width="1632" height="877" alt="image" src="https://github.com/user-attachments/assets/1d4bf589-4735-47a0-9c51-179c95c8b308" />
-<img width="1647" height="877" alt="image" src="https://github.com/user-attachments/assets/362f534c-d48b-4793-a545-c627a764489e" />
-<img width="1650" height="876" alt="image" src="https://github.com/user-attachments/assets/573218fa-df10-43ce-a0de-d1d9cadea428" />
-<img width="1650" height="879" alt="image" src="https://github.com/user-attachments/assets/06b30ccf-48cb-49eb-952c-d8d19d493596" />
+До кожної сторінки веде шлях зверху (динамічний); до підсторінок: відповідні кнопки на Загальній та Поглиблено
+<img width="1659" height="877" alt="image" src="https://github.com/user-attachments/assets/091bb4fc-d665-42be-9c38-a857f3c1a7b4" />
+<img width="1656" height="880" alt="image" src="https://github.com/user-attachments/assets/b47adcec-43f7-4ec4-9c1c-4e820abd4948" />
+<img width="1657" height="880" alt="image" src="https://github.com/user-attachments/assets/34becc4e-1ae4-43b3-b2a4-72bcf1360d75" />
+<img width="1660" height="920" alt="image" src="https://github.com/user-attachments/assets/f0a672e6-988c-4639-bb28-d476d990c5db" />
+<img width="1647" height="919" alt="image" src="https://github.com/user-attachments/assets/d4469fe1-4368-4bc2-8059-dd4e5e04516e" />
+<img width="1664" height="877" alt="image" src="https://github.com/user-attachments/assets/77193d86-3f5a-4250-b48b-67f6615cde37" />
 Впроваджено 3 кастомних tooltips-а до деяких графіків, (як демонстрація навичок, вони не були необхідними)  
 ### :	📎 Вигляд tooltips-ів:
 
