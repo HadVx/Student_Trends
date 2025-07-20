@@ -49,7 +49,7 @@ P.S. SQL-частина відсутня в цьому проекті через
 <img width="1656" height="880" alt="image" src="https://github.com/user-attachments/assets/b47adcec-43f7-4ec4-9c1c-4e820abd4948" />
 <img width="1657" height="880" alt="image" src="https://github.com/user-attachments/assets/34becc4e-1ae4-43b3-b2a4-72bcf1360d75" />
 <img width="1660" height="920" alt="image" src="https://github.com/user-attachments/assets/f0a672e6-988c-4639-bb28-d476d990c5db" />
-<img width="1647" height="919" alt="image" src="https://github.com/user-attachments/assets/d4469fe1-4368-4bc2-8059-dd4e5e04516e" />
+<img width="1658" height="878" alt="image" src="https://github.com/user-attachments/assets/0d015f6a-6928-4dd0-a072-ecd9fc4fd1a8" />
 <img width="1664" height="877" alt="image" src="https://github.com/user-attachments/assets/77193d86-3f5a-4250-b48b-67f6615cde37" />
 Впроваджено 3 кастомних tooltips-а до деяких графіків, (як демонстрація навичок, вони не були необхідними)  
 ### :	📎 Вигляд tooltips-ів:
