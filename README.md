@@ -53,7 +53,7 @@ P.S. SQL-частина відсутня в цьому проекті через
 Впроваджено 3 кастомних tooltips-а до деяких графіків, (як демонстрація навичок, вони не були необхідними)  
 ### :	📎 Вигляд tooltips-ів:
 
-<img width="279" height="195" alt="image" src="https://github.com/user-attachments/assets/07b7df96-c182-4043-b258-46747d712110" /> <img width="256" height="199" alt="image" src="https://github.com/user-attachments/assets/66a8db7d-712e-473d-83c9-80aa5c0b95a2" /> <img width="252" height="196" alt="image" src="https://github.com/user-attachments/assets/513f415c-a84a-444c-9d36-85e49f7aa730" />
+<img width="232" height="186" alt="image" src="https://github.com/user-attachments/assets/5d3d11a1-1ee6-4988-b9aa-a0130dedf42d" /> <img width="233" height="191" alt="image" src="https://github.com/user-attachments/assets/e4a03c96-a045-4f4d-8744-6a4ddc5b55d7" /> <img width="252" height="196" alt="image" src="https://github.com/user-attachments/assets/513f415c-a84a-444c-9d36-85e49f7aa730" />
 
 # 📝Підсумок
 Дані було взято в сирому вигляді, занормовано, проаналізовано та візуалізовано в двох середовищах для зручного подання інформації. 
